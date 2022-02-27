@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmailMerced
 - 👀 I’m interested in Coding & UI UX 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on open sources web apps
 - 📫 How to reach me. On ismail.merced@gmail.com & ismail.merced2@gmail.com
 
